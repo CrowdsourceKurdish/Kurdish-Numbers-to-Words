@@ -21,3 +21,6 @@ This repository contains the Kurdish text equivalents of the numbers and Kurdish
 - Click the download button to download the .txt file.
 
 [Download](https://github.com/CrowdsourceKurdish/Kurdish-Numbers-to-Words/files/10042196/convert.numbers.to.kurdish.text.txt)
+
+
+For more https://www.languagesandnumbers.com/how-to-count-in-northern-kurdish/en/kmr/#numbering-rules
