@@ -20,4 +20,4 @@ This repository contains the Kurdish text equivalents of the numbers and Kurdish
 ### Numbers between 0-1000 and their Kurdish text equivalents
 - Click the download button to download the .txt file.
 
-[Download](https://github.com/CrowdsourceKurdish/Data-to-convert-numbers-to-text---Kurdish-Kurmanji-/files/10040676/convert.numbers.to.kurdish.text.txt)
+[Download](https://github.com/CrowdsourceKurdish/Kurdish-Numbers-to-Words/files/10042196/convert.numbers.to.kurdish.text.txt)
