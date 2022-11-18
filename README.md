@@ -1,5 +1,5 @@
-# Datasets to convert numbers to text - Kurdish(Kurmanji)
-This repository contains the Kurdish text equivalents of the numbers and Kurdish numbering rules..
+# Data and Rules to convert numbers to word - Kurdish(Kurmanji)
+This repository contains the Kurdish text equivalents of the numbers and Kurdish numbering rules.
 
 ## Kurdish (Kurmanji) Numbering Rules
 ### Rules
